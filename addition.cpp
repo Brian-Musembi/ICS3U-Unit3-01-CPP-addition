@@ -25,4 +25,5 @@ int main() {
     std::cout << "" << std::endl;
     sum = num1 + num2;
     std::cout << "The answer to " << num1 << " + " << num2 << " is " << sum;
-    return 0;}
+    return 0;
+}
